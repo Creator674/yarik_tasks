@@ -1,0 +1,24 @@
+{
+  "name": "yarik_tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrstalon/yarik_tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrstalon/yarik_tasks/issues"
+  },
+  "homepage": "https://github.com/mrstalon/yarik_tasks#readme"
+}
